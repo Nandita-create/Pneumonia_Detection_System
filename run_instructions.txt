@@ -1,0 +1,5 @@
+Run code in the following order:
+python feature_extraction.py
+python train_model.py
+python evaluate_model.py
+python -m streamlit run app.py
